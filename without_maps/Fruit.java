@@ -4,7 +4,7 @@ public class Fruit {
     String name;
     double price;
 
-    void createFruit(String name, double price ){
+    Fruit(String name, double price ){
         this.name=name;
         this.price=price;
     }
