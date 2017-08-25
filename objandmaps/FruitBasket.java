@@ -18,7 +18,7 @@ public class FruitBasket  extends ItemBill{
         fruitMap.put(2,orange);
         fruitMap.put(3,banana);
         fruitMap.put(4,kiwi);
-
+        
         calcualteCost(apple,2);
         calcualteCost(orange,1.5);
         calcualteCost(banana,0.5);
